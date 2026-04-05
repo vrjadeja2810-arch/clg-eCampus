@@ -17,11 +17,11 @@ This project is made by section A group 3.
 
 1. Seperate login system for students and faculties.![Login page ss](<Media/Screenshot 2026-04-05 215626.png>)
 
-2. For different operations have different .exe to make your flow simple.
+2. For different operations have different .exe to make your flow simple. ![showing different exes](<Media/Screenshot 2026-04-05 221743>)
 
 3. University Portal has Students and Faculty profile, Academics (individual), Program Structure (ICT & MnC), Announcements (for events too), Administrative Window (for admins and students).![profile page ss](<Media/Screenshot 2026-04-05 215727.png>) ![academics ss](<Media/Screenshot 2026-04-05 215739.png>) ![program structure ss](<Media/Screenshot 2026-04-05 215809.png>) ![announcement page ss](<Media/Screenshot 2026-04-05 215826.png>) ![admin window ss](<Media/Screenshot 2026-04-05 215844.png>)
 
-4. All the data will saved in files. Different type of data will stored in different files.
+4. All the data will saved in files. Different type of data will stored in different files. ![showing different data files](<Media/Screenshot 2026-04-05 221945>)
 
 5. Saved data is easy to edit by faculties or admins (in .exe and file too.)
 
