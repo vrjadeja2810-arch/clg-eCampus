@@ -11,7 +11,7 @@
 ## Introduction
 
 Our project is a simple c based University Portal for windows. This c language project is made with GUI and the library used for the same is Raylib which is free to use and easier compared to other GUI based libraries. 
-This project is made by section A group 3.
+This project is made by my group of section A group:3 from BTech ICT 1st semester 2025-29 DAU.
 
 ## Features
 
