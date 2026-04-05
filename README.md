@@ -59,5 +59,8 @@ $gcc program_structure.c -o prostr -lraylib -lgdi32 -lwinmm
 
 * Our valuable team did very good job to complete this project successfully and got to learn about a new GUI library and enjoyed the work.
 As the leader Vishvdeepsinh Jadeja i got the opportunity to make it opensource for upcoming students.
+### Collaborators:
+<img src="https://github.com/vrjadeja2810-arch.png" width="25"> [Vishvdeepsinh Jadeja](https://github.com/vrjadeja2810-arch)
+<img src="https://github.com/armankalva5-osspng" width="25"> [Moh. Arman Kalva](https://github.com/armankalva5-oss)
 
 This is everything about our project hope you'll enjoy.
