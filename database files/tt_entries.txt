@@ -1,0 +1,4 @@
+3|10:00|11:00|0|Calculus|LT 1|Saumya K.|1
+1|10:00|11:00|0|Calculus|LT 1|Saumya K.|2
+0|14:00|15:00|1|Calculus Tut.|CEP 108|Saumya K.|3
+4|10:00|11:30|0|Calculus|LT 1CEP 108|Saumya K.Saumya K.|4

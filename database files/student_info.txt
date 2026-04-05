@@ -1,0 +1,44 @@
+202501010
+student
+Shreyansh
+Vadodara
+9874563210
+202501010@uni.ac.in
+ict
+1
+175
+A+
+--END--
+202501013
+5052
+Mustansir Chhatariya
+Bhavnagar
+8200952013
+202501013@uni.ac.in
+B.Tech ICT
+1
+171
+B+
+--END--
+202503026
+3026
+Mantra Jhaveri
+Jamnagar
+9428415376
+202503026@uni.ac.in
+BTech MNC
+1
+186
+B+
+--END--
+202501072
+1072
+Vansh Shah
+Bhavnagar
+9321321321
+202501072@uni.ac.in
+BTech ICT
+1
+175
+B+
+--END--

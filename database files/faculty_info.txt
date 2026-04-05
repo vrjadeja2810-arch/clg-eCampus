@@ -1,0 +1,45 @@
+321
+321
+Arpita Mal
+Udaipur
+9874563210
+321@uni.ac.in
+Calculus
+Main Prof.
+--END--
+202501027
+123321
+Vishvdeepsinh Jadeja
+Jamnagar
+9265414286
+202501027@uni.ac.in
+Admin
+Dean
+--END--
+202501026
+123321
+Arman Kalva
+Sisuvihar, Bhavnagar
+9426628458
+202501026@uni.ac.in
+Admin Office
+Office Manager
+--END--
+202501029
+123321
+Krish Valanki
+South bopal, Ahmedabad
+9586946464
+202501029@uni.ac.in
+Admin
+Director
+--END--
+202501025
+123321
+Jaimin Joshi
+Science City
+97864530201
+202501025@uni.ac.in
+Admin
+Examination Director
+--END--
